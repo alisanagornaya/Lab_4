@@ -1,0 +1,7 @@
+D:\ \Study\Projects\2Sem\Arch\Lab4\bin\Debug\Lab4.exe.config
+D:\ \Study\Projects\2Sem\Arch\Lab4\bin\Debug\Lab4.exe
+D:\ \Study\Projects\2Sem\Arch\Lab4\bin\Debug\Lab4.pdb
+D:\ \Study\Projects\2Sem\Arch\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\ \Study\Projects\2Sem\Arch\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\ \Study\Projects\2Sem\Arch\Lab4\obj\Debug\Lab4.exe
+D:\ \Study\Projects\2Sem\Arch\Lab4\obj\Debug\Lab4.pdb
